@@ -8,9 +8,9 @@
 
 ![tracert answer](https://raw.githubusercontent.com/JunSerena/Pictures/master/exerciseAns/network/1.2tracert.png)
 
-##三、Problems on the book:
+## 三、Problems on the book:
 
-###problrm4:
+### problrm4:
 
 ​  a: 16 simultaneous connections：A->B 4,  B->C 4,  C->D 4,  D->A 4
 
